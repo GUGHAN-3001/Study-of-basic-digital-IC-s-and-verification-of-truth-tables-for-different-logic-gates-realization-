@@ -57,16 +57,29 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+## Program:
 
-Result:
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
+Developed by: GUGHAN S
+RegisterNumber: 212223240043 
+
+![Exp1 code](https://github.com/GUGHAN-3001/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009432/47beed5d-6c7e-4021-9b03-085b0e428275)
+
+
+## Truthtable
+
+![Exp1 truthtable](https://github.com/GUGHAN-3001/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009432/61549c35-0d57-4934-a2c1-9696a8e9d056)
+
+## Output:
+
+## RTL:
+
+![Exp1 RTL diagram](https://github.com/GUGHAN-3001/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009432/1e8e1f84-0cf7-499d-b875-def4dabbc3a6)
+
+## TIMING DIAGRAM:
+
+![Exp1 wave](https://github.com/GUGHAN-3001/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009432/60c4c338-f8a3-4fde-9fe6-b27bcfabebf0)
+
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
